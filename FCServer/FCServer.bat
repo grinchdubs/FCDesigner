@@ -1,1 +1,1 @@
-start "c:\Users\Heljick\Desktop" fcserver.exe	conf.json
+start "c:\Users\PC\Desktop" fcserver.exe	conf.json
